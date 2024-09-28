@@ -1,0 +1,2 @@
+-- For Create NugetPackage use this command
+dotnet pack -c release
